@@ -1,4 +1,4 @@
-First of all, download the project and enter the folder rm_promo/
+First of all, download the project and enter the folder rm_promo/ and execute the command chmod +x *.sh or download the release version
 
 
 Tired of random files cluttering your desktop? This script is here to help!
