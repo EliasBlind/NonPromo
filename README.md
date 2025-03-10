@@ -1,3 +1,6 @@
+First of all, download the project and enter the folder rm_promo/
+
+
 Tired of random files cluttering your desktop? This script is here to help!
 It automatically cleans up specified files from your desktop every time your computer starts.
 
